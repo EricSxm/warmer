@@ -1,0 +1,2 @@
+rootProject.name='暖手宝'
+include ':app'
